@@ -25,7 +25,7 @@
 <li>The Content
 
 <ul>
-<li>Python Review</li>
+<li>Python Review (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%201%20-%20Python%20Review">Link</a>)</li>
 <ul>
 <li>Operators</li>
 <li>DataTypes</li>
@@ -36,22 +36,22 @@
 <li>Pandas</li>
 <li>MatPlot Lib</li>
 </ul>
-<li>Density Estimation Techniques</li>
+<li>Density Estimation Techniques (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%202%20-%20Classification%20Methods">Link</a>)</li>
 <ul>
 <li>Classification of multivariate data</li>
 <li>The Bayes classification rule</li>
 </ul>
-<li>Bayesian Classifier</li>
+<li>Bayesian Classifier (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%203%20-%20Bayes%20Classifier">Link</a>)</li>
 <ul>
 <li>Implement and assess the performance of the Bayesian Classifier</li>
 <li>Machine Learning Terminlology</li>
 </ul>
-<li>Density Estimation</li>
+<li>Density Estimation (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%204%20-%20Density%20Estimation">Link</a>)</li>
 <ul>
 <li>Implement one of the density estimation methods</li>
 <li>Choose a suitable bump function (Parzen window)</li>
 </ul>
-<li>Principal Component Analysis</li>
+<li>Principal Component Analysis (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%205%20-%20Principal%20Component%20Analysis">Link</a>)</li>
 <ul>
 <li>Implementing PCA</li>
 <li>Dimensionality Reduction with PCA</li>
@@ -59,7 +59,7 @@
 <li>Reconstructing an approximation of the data</li>
 <li>Visualizing the projections</li>
 </ul>
-<li>AdaBoost Classifier</li>
+<li>AdaBoost Classifier (<a href="https://github.com/EslamAsHhraf/Neural-Network-Labs/tree/main/Lab%206%20-%20AdaBoost%20Classifier">Link</a>)</li>
 <ul>
 <li>Classifiers Boosting Algorithms</li>
 <li>Implementing Adaboost_classifier</li>
@@ -88,4 +88,4 @@
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Machine-Learning-Labs/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Neural-Network-Labs/blob/main/LICENSE) for more information ©EslamAsHhraf.
