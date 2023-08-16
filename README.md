@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height=450px src="https://cdn.rentechdigital.com/common_files/common_integration/swipecart/Blog/machine-learning-1.gif">
+<img height=350px src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif">
 
 </div>
 
